@@ -1,0 +1,320 @@
+
+
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "oWwrlJl-Ref4TwUpFLIuKI72RxM",
+  "nextPageToken": "CAkQAA",
+  "regionCode": "US",
+  "pageInfo": {
+    "totalResults": 223,
+    "resultsPerPage": 9
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CMm4YUlHgS2ursNOGlLUCqN1OcY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fVW8-px4Ufw"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-15T13:00:36Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "The new AirPods Pro | Quiet the noise | Apple",
+        "description": "The new AirPods Pro. Up to 2x more Active Noise Cancellation than the previous generation. Learn more: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fVW8-px4Ufw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fVW8-px4Ufw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fVW8-px4Ufw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-15T13:00:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rptWCbPzY440WrYMo6KM5X9bcpA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1S8L7t2tu0U"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-14T14:55:42Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "iPhone 14 &amp; iPhone 14 Plus | Hello Yellow | Apple",
+        "description": "Say hello yellow to iPhone 14 and iPhone 14 Plus. Two great sizes. Larger than life battery life. A new front camera with autofocus ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1S8L7t2tu0U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1S8L7t2tu0U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1S8L7t2tu0U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-14T14:55:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IBwQS55piB9qQm6Y9CxxbIzOk5k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "svpvEfQ1cp8"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-04T10:40:49Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "Shot on iPhone 14 Pro | Making of Vishal Bhardwaj’s Fursat | Apple",
+        "description": "Go behind the scenes with acclaimed filmmaker Vishal Bhardwaj and Director of Photography Swapnil Sonawane. See how ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/svpvEfQ1cp8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/svpvEfQ1cp8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/svpvEfQ1cp8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-04T10:40:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YbgA3MdRD2IpPm_9IFTBlInGVVw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "f1VEks-QQ4Y"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-02T18:30:29Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "Shot on iPhone 14 Pro | Fursat – A Vishal Bhardwaj film | Apple",
+        "description": "Shot on iPhone 14 Pro by director Vishal Bhardwaj, \"Fursat\" is a magical story about a man so obsessed with controlling the future ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f1VEks-QQ4Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f1VEks-QQ4Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f1VEks-QQ4Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-02T18:30:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EgYeeiO-Ub28UY-QkqiLBxinjsg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1HWUjMjaBJI"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-24T16:00:01Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "Privacy on iPhone | A Day in the Life of an Average Person’s Data | Apple",
+        "description": "iPhone is designed with privacy built in. Follow Nick Mohammed through his “average” day to learn how data companies are ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1HWUjMjaBJI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1HWUjMjaBJI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1HWUjMjaBJI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-24T16:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dYytLPe5A_5qn9JztZ_8E3uAeKw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oMf_i1YBuMk"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-18T14:44:48Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "Introducing the all-new HomePod | Apple",
+        "description": "A powerful, high-excursion woofer and beamforming tweeters create room-filling sound. HomePod senses its surroundings and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oMf_i1YBuMk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oMf_i1YBuMk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oMf_i1YBuMk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-18T14:44:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9FprmWKqNh29X-V_0Xzjp4Px-_g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6Ij9PiehENA"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-17T14:21:22Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "Meet the new MacBook Pro and Mac mini | Apple",
+        "description": "Introducing the new MacBook Pro and Mac mini supercharged by the next generation of Apple silicon. Mac mini with M2 and M2 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6Ij9PiehENA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6Ij9PiehENA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6Ij9PiehENA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-17T14:21:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dS7o0G7T-heK6bo5Q0URBFCSGJI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HjHG5kzi85o"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-12T16:15:00Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "Shot on iPhone 14 Pro | Chinese New Year - Through the Five Passes | Apple",
+        "description": "Welcome the Year of the Rabbit with a story about a young man, his love for opera, and the spirit of persistence. Apple and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HjHG5kzi85o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HjHG5kzi85o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HjHG5kzi85o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-12T16:15:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "a6kLeNQtQMo21De30HH9OAQLL_I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7O-zjxr-y-8"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-12T16:15:00Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "Shot on iPhone 14 Pro | Chinese New Year - Making of “Through the Five Passes” with Peng Fei | Apple",
+        "description": "Go behind the lens of iPhone 14 Pro with director Peng Fei, and uncover the cinema secrets behind Apple's latest Chinese New ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7O-zjxr-y-8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7O-zjxr-y-8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7O-zjxr-y-8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-12T16:15:00Z"
+      }
+    }
+  ]
+}
